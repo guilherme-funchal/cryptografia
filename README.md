@@ -10,7 +10,7 @@ Teste de Crypto RSA
 ```
 node rsa.js
 ```
-## Para teste de criptografia com RSA
+## Para teste de criptografia com ECC(Nativo Ethereum)
 Teste de Crypto carteiras nativas com criptografia assimetria
 
 ```
